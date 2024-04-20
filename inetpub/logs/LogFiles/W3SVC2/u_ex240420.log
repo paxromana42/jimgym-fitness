@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-20 02:15:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-20 02:15:31 192.168.1.2 GET / - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 - 304 0 0 249
+2024-04-20 02:15:31 192.168.1.2 GET /styles.css - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 304 0 0 46
+2024-04-20 02:15:31 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 404 0 2 55
+2024-04-20 02:16:10 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 404 0 2 24
+2024-04-20 02:16:17 192.168.1.2 GET /history.html - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 304 0 0 25
+2024-04-20 02:16:21 192.168.1.2 GET /contact.html - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/history.html 304 0 0 31

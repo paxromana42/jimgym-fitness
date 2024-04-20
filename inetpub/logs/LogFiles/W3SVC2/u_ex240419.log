@@ -1,0 +1,78 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 18:23:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 18:23:40 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 132
+2024-04-19 18:23:40 192.168.1.2 GET /iisstart.png - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.jimgym.fitness/ 200 0 0 10
+2024-04-19 18:23:40 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 10
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 18:25:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 18:25:25 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1
+2024-04-19 18:25:25 192.168.1.2 GET /iisstart.png - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.jimgym.fitness/ 200 0 0 10
+2024-04-19 18:25:25 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 11
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 19:06:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 19:06:51 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 200 0 0 111
+2024-04-19 19:06:51 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 200 0 0 1
+2024-04-19 19:06:51 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 404 0 2 3
+2024-04-19 19:07:00 192.168.1.2 GET /history.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 200 0 0 2
+2024-04-19 19:07:01 192.168.1.2 GET /contact.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/history.html 200 0 0 3
+2024-04-19 19:07:03 192.168.1.2 GET /index.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/contact.html 200 0 0 0
+2024-04-19 19:10:11 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 0
+2024-04-19 19:10:11 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 19:17:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 19:17:09 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 200 0 0 1
+2024-04-19 19:17:09 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 200 0 0 0
+2024-04-19 19:17:11 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 200 0 0 4
+2024-04-19 19:17:11 ::1 GET /styles.css - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/ 200 0 0 3
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 19:36:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 19:36:53 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 0
+2024-04-19 19:36:53 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 304 0 0 4
+2024-04-19 19:36:53 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 404 0 2 3
+2024-04-19 19:37:02 192.168.1.2 GET /history.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 200 0 0 1
+2024-04-19 19:37:15 192.168.1.2 GET /contact.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/history.html 200 0 0 2
+2024-04-19 19:42:31 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 0
+2024-04-19 19:42:31 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 0
+2024-04-19 19:42:31 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 404 0 2 2
+2024-04-19 19:45:24 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 1
+2024-04-19 19:45:24 ::1 GET /styles.css - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/ 304 0 0 0
+2024-04-19 19:45:24 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/ 404 0 2 2
+2024-04-19 19:45:28 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 0
+2024-04-19 19:45:28 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 304 0 0 1
+2024-04-19 19:45:28 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 404 0 2 2
+2024-04-19 19:47:52 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 37
+2024-04-19 19:47:52 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 2
+2024-04-19 19:47:52 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 404 0 2 3
+2024-04-19 19:48:07 192.168.1.2 GET /index.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 29
+2024-04-19 19:48:10 192.168.1.2 GET /history.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/index.html 304 0 0 0
+2024-04-19 19:55:37 192.168.1.2 GET /contact.html - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 0
+2024-04-19 19:55:37 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/contact.html 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-04-19 20:37:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-04-19 20:37:21 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 90
+2024-04-19 20:37:21 ::1 GET /styles.css - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/ 304 0 0 4
+2024-04-19 20:37:24 ::1 GET /history.html - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/ 200 0 0 0
+2024-04-19 20:37:25 ::1 GET /contact.html - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://localhost/history.html 200 0 0 14
+2024-04-19 20:37:32 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 0
+2024-04-19 20:37:32 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://192.168.1.2/ 304 0 0 0
+2024-04-19 20:37:41 192.168.1.2 GET / - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 - 304 0 0 12
+2024-04-19 20:37:41 192.168.1.2 GET /styles.css - 80 - 192.168.1.2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36 http://www.jimgym.fitness/ 304 0 0 0
+2024-04-19 20:45:32 192.168.1.2 GET / - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 - 200 0 0 26
+2024-04-19 20:45:32 192.168.1.2 GET /styles.css - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 200 0 0 33
+2024-04-19 20:45:32 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 404 0 2 31
+2024-04-19 20:45:54 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 404 0 2 27
+2024-04-19 20:46:31 192.168.1.2 GET /favicon.ico - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 404 0 2 22
+2024-04-19 20:46:35 192.168.1.2 GET /history.html - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/ 200 0 0 29
+2024-04-19 20:46:35 192.168.1.2 GET /contact.html - 80 - 192.168.1.11 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 http://www.jimgym.fitness/history.html 200 0 0 23
